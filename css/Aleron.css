@@ -1,0 +1,112 @@
+/* General styles */
+body {
+    margin: 0;
+    font-family: 'Verdana', sans-serif;
+    background-color: #121212;
+    color: #e4e4e4;
+    line-height: 1.6;
+    font-family: "BPG Nino Mtavruli", sans-serif;
+
+}
+
+/* Container */
+.container {
+    max-width: 320px;
+    margin: 0 auto;
+    padding: 15px;
+    background-color: #1b1b1b;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+}
+
+/* Header */
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    font-size: 26px;
+    color: #ff4b4b;
+    text-transform: uppercase;
+}
+
+/* Hero Photo */
+.hero-photo {
+    margin-bottom: 20px;
+}
+
+.hero-video {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.7);
+}
+
+/* Hero Info */
+.hero-info {
+    margin-bottom: 20px;
+    background-color: #252525;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.5);
+}
+
+.hero-info h2 {
+    font-size: 20px;
+    color: #ff4b4b;
+}
+
+.hero-info p {
+    font-size: 14px;
+}
+
+/* Hero Abilities */
+.hero-abilities {
+    margin-bottom: 20px;
+    background-color: #252525;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.5);
+}
+
+.hero-abilities h2 {
+    font-size: 20px;
+    color: #ff4b4b;
+}
+
+
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 8px;
+    padding: 6px;
+    background: #252525; 
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.5);
+
+    border-radius: 5px;
+    border-left: 4px solid #ff4b4b; /* ცისფერი საზღვარი */
+}
+
+/* Hero Powers */
+.hero-powers {
+    background-color: #252525;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.5);
+}
+
+.hero-powers h2 {
+    font-size: 20px;
+    color: #ff4b4b;
+}
+
+.hero-powers p {
+    font-size: 14px;
+}
+
+
